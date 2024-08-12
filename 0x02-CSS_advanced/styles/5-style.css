@@ -1,4 +1,4 @@
-/*setting reusable variables*/
+/*reassigning reusable variables*/
 html {
     scroll-behavior: smooth;
     font-size: var(--font-size-medium);
