@@ -1,5 +1,4 @@
-/*Targeting the root selector,
-create the following custom properties*/
+/*Based on styles/6-style.css*/
 html {
     scroll-behavior: smooth;
     font-size: 62.5%;
