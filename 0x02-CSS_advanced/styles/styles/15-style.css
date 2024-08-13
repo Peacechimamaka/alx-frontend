@@ -184,8 +184,8 @@ template {
 /*# sourceMappingURL=normalize.min.css.map */
 
 *,
-*::before,
-*::after {
+*:before,
+*:after {
     box-sizing: border-box;
 }
 
@@ -212,7 +212,7 @@ h6 {
     font-weight: var(--font-weight-bold);
 }
 
-a[href] {
+a {
     color: var(--text-color);
     text-decoration: none;
 }
