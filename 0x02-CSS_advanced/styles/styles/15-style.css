@@ -1,4 +1,5 @@
-/*Ensure that the declaration targeting anchor elements*/
+/*Just before the styling for html,
+add*/
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 html {
     line-height: 1.15;
